@@ -1,0 +1,2 @@
+Para obtener el csv completo descomprime la parte 1.
+Se debe de poseer todas las partes para que funcione
